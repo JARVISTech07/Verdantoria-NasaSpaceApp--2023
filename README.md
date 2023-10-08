@@ -12,7 +12,7 @@ The Verdantoria Project is an imaginative exploration of a hypothetical exoplane
 
 - **Website:** The project is live and can be explored at [Verdantoria Project](https://www.teamnova.pappu.com.np).
 - 
-**Website:** You can even download the complete source code of this project  at [Verdantoria Project]([https://www.teamnova.pappu.com.np](https://teamnova.pappu.com.np/wp-content/uploads/2023/10/teamnova.pappu_.com_.np_.zip)).
+**Source Code:** You can even download the complete source code of this project  at [Verdantoria Project]([https://www.teamnova.pappu.com.np](https://teamnova.pappu.com.np/wp-content/uploads/2023/10/teamnova.pappu_.com_.np_.zip)).
 
 
 
