@@ -18,6 +18,10 @@ Explore the project live at [Verdantoria Project](https://teamnova.pappu.com.np/
 
 You can download the complete source code of this project [here](https://teamnova.pappu.com.np/wp-content/uploads/2023/10/teamnova.pappu.com.np.zip).
 
+**Note : Extract the files(js.zip files) of the wp-includes/zip-files folder and place the files and folders in the wp-includes before running on any local server or online server
+(The above statement only appy when you downdload the code ffrom the github not from the given url).
+
+
 
 ## How to Contribute
 
